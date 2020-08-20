@@ -1,0 +1,3 @@
+i would be 10
+x would be 0.3
+j would be 5

@@ -1,0 +1,3 @@
+x would be 12.3
+i would be 45
+y would be 0.6
