@@ -1,0 +1,2 @@
+Yes. Since 10 % 10 will give us back zero (as expected) we avoid the problem
+seen in exercise 07.

@@ -1,0 +1,4 @@
+a) i += j result in: i being 3 and j being 2
+b) i--; result in: i being 0 and j being 2
+c) i * j / i result in: i being 1 and j being 2
+d) i % ++j result in: i being 1 and j being 3

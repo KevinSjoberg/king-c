@@ -1,0 +1,1 @@
+No, (-i)/j may have different outcomes in C89 while -(i/j) will produce the same result in both C89 and C99.

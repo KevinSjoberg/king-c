@@ -1,0 +1,10 @@
+It won't work due to modolo giving very different results for different
+inputs. E.g.:
+
+With a total of 10:
+
+9 - ((10 - 1) % 10) = 0
+
+while
+
+10 - (10 % 10) = 10
