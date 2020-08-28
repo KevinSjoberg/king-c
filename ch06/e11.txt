@@ -1,0 +1,5 @@
+The output would be:
+20
+
+Since i % 2 will only be zero for even numbers. This leaves us with the number
+2, 4, 6, 8 which, when added together, equals 20.

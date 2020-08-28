@@ -1,0 +1,1 @@
+c) due to the fact that the loop body will run at least once. Even if i = 10.
