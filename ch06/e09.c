@@ -2,12 +2,12 @@
 
 int main(void)
 {
-	int i = 10;
+    int i = 10;
 
-	while (i >= 1) {
-		printf("%d ", i++);
-		i /= 2;
-	}
+    while (i >= 1) {
+        printf("%d ", i++);
+        i /= 2;
+    }
 
-	return 0;
+    return 0;
 }

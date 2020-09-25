@@ -2,20 +2,20 @@
 
 int main(void)
 {
-	float num, max = 0.0f;
+    float num, max = 0.0f;
 
-	for (;;) {
-		printf("Enter a number: ");
-		scanf("%f", &num);
+    for (;;) {
+        printf("Enter a number: ");
+        scanf("%f", &num);
 
-		if (num > max)
-			max = num;
+        if (num > max)
+            max = num;
 
-		if (num <= 0)
-			break;
-	}
+        if (num <= 0)
+            break;
+    }
 
-	printf("The largest number entered was %.2f\n", max);
+    printf("The largest number entered was %.2f\n", max);
 
-	return 0;
+    return 0;
 }

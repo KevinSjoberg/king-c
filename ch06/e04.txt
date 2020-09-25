@@ -1,1 +1,0 @@
-c) due to the fact that it increments i before the loop body.

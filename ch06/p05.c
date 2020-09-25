@@ -2,18 +2,18 @@
 
 int main(void)
 {
-	int num;
-	printf("Enter a number: ");
-	scanf("%d", &num);
+    int num;
+    printf("Enter a number: ");
+    scanf("%d", &num);
 
-	printf("The reversal is: ");
+    printf("The reversal is: ");
 
-	do {
-		printf("%d", num % 10);
-		num /= 10;
-	} while (num != 0);
+    do {
+        printf("%d", num % 10);
+        num /= 10;
+    } while (num != 0);
 
-	printf("\n");
+    printf("\n");
 
-	return 0;
+    return 0;
 }

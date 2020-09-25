@@ -2,15 +2,15 @@
 
 int main(void)
 {
-	for(int i = 0; i < 10; i++) {
-		if (i % 2 == 0)
-			goto skip;
+    for (int i = 0; i < 10; i++) {
+        if (i % 2 == 0)
+            goto skip;
 
-		printf("%d ", i);
-		skip: ;
-	}
+        printf("%d ", i);
+    skip:;
+    }
 
-	printf("\n");
+    printf("\n");
 
-	return 0;
+    return 0;
 }

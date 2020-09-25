@@ -1,4 +1,0 @@
-a) 3
-b) Either -3 or 2
-c) Either 3 or -2
-d) -3 or 2

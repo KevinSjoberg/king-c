@@ -1,4 +1,0 @@
-Yes, it's legal but it doesn't do what you think it does.
-
-(n == 1-10) will be evaluted as (n == (1-10)), thus always comparing n
-with -9. The expression wil evaluate to false for all values of n except -9.

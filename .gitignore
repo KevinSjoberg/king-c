@@ -5,4 +5,5 @@
 !*/
 
 # Un-ignore files with an extension
-!*.*
+!*.c
+!*.md
